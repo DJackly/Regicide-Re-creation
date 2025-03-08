@@ -1,0 +1,83 @@
+{
+  "cards": [
+    {
+      "cardNumber": 1,
+      "cardImgAddress": "Assets/Resources/image/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 2,
+      "cardImgAddress": "Assets/Resources/image/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 3,
+      "cardImgAddress": "Assets/Resources/image/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 4,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 5,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 6,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 7,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 8,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 9,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 10,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 11,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 12,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    },
+    {
+      "cardNumber": 13,
+      "cardImgAddress": "image/Resources/卡牌（1）/卡牌（1）_1",
+      "suit": "Spades",
+      "isInHand": true
+    }
+    
+  ]
+}
